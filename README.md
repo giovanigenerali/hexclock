@@ -1,0 +1,2 @@
+<p data-height="265" data-theme-id="dark" data-slug-hash="eZwKga" data-default-tab="result" data-user="wgenial" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/wgenial/pen/eZwKga/">hexclock</a> by WGenial (<a href="http://codepen.io/wgenial">@wgenial</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
