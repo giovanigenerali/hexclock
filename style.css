@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+}
+#hex {
+  color: #FFF;
+  font: 64px/64px 'Lato';
+  height: 64px;
+  position: relative;
+  top: 50%;
+  margin-top: -32px;
+  text-align: center;
+}
